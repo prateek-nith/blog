@@ -1,10 +1,11 @@
 # blog
 backend APIS for simple blogging platform
 
- 1) Run "npm install" for installing all the dependencies
- 2) Enter mongoDB urls and ports in config.json
- 3) Run server.js file using node
- 3) Enjoy Blogging
+ 1) Install node.js(6.9.2) and mongoDB on your system.
+ 2) Run "npm install" for installing all the dependencies
+ 3) Enter mongoDB urls and ports in config.json
+ 4) Run server.js file using node
+ 5) Enjoy Blogging
 
 
  **API Details:**
